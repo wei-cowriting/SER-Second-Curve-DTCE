@@ -1,59 +1,37 @@
-# 📁 SER × Second Curve × DTCE
+# SER × Second Curve × DTCE
 
-> A GitHub project documenting a full framework for AI co-writing based on structured expression, collaborative rhythm, and transformative cognition.
+> A human–AI co-writing framework for structured expression, resonance, and cognitive transformation.
 
----
+## 🌟 Overview
 
-## 🧩 Project Overview
-This repository introduces an original co-writing framework developed through real-world GPT-4 collaboration, combining three core models:
+This repository presents an integrated system of three original models:
 
-- **SER (Structured Expression Resonance)**: Structure-based resonance mechanism for meaningful writing.
-- **Second Curve of AI Co-Writing**: A model for rhythm-based evolution in human–AI collaboration.
-- **DTCE (Deep Transformative Cognitive Evolution)**: A cognitive theory for growth through structured co-creation.
+- **🧩 SER (Structured Expression Resonance)**: A mechanism for generating deep resonance through structured writing.
+- **🌀 Second Curve**: A rhythm-based co-creation framework that reflects how AI-assisted writing evolves across time.
+- **🧠 DTCE (Deep Transformative Cognitive Evolution)**: A model for long-term cognitive growth through collaborative structuring.
 
-Together, they form the foundation of the *Co-Writing Studio · Wei* methodology.
+## 🧭 Purpose
 
----
+To explore how humans and AI can co-create meaning—not just generate text—through structure, intention, and shared rhythm.
 
-## 📂 Folder Structure
-```
-/SER-SecondCurve-DTCE
-│
-├── /frameworks            # Conceptual overviews of SER, Second Curve, DTCE
-│   ├── ser.md
-│   ├── second-curve.md
-│   └── dtce.md
-│
-├── /templates             # YAML/JSON/Markdown writing templates for co-creation
-│   ├── ser-template.md
-│   └── co-writing-flow.md
-│
-├── /examples              # Real co-writing examples using SER & Second Curve
-│   ├── example-01.md
-│   ├── example-02.md
-│   └── ...
-│
-├── /guides                # How to use this framework in practice
-│   ├── notion-integration.md
-│   ├── api-workflow.md
-│   └── prompt-design.md
-│
-└── README.md
-```
+## 🧪 What You'll Find
+
+- 📘 Whitepapers and Conceptual Frameworks  
+- 🛠️ Real Application Examples from Notion-Based Projects  
+- 💡 Experimental Templates for Structured Co-Writing  
+- 🌍 Reflections from Education, Expression, and AI Collaboration  
+
+## 🔗 Related Pages
+
+- [Notion Central Hub (中文+EN)](https://literate-coil-a77.notion.site/SER-Second-Curve-DTCE-22f7993f427780828acbfa0b85a2cf0a?pvs=4)
+- [LinkedIn Project Overview](https://www.linkedin.com/in/wei-cowriting)
+
+## 🪪 License & Credits
+
+All content is original by **Co-Writing Studio · Wei**, shared under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+For collaboration or feedback: [linkedin.com/in/wei-cowriting](https://www.linkedin.com/in/wei-cowriting)
 
 ---
 
-## 🚀 Usage
-You can:
-1. Read the framework concepts to understand core logic.
-2. Use the templates to structure your AI co-writing process.
-3. Explore examples to learn how others have used it.
-4. Apply the guides to your Notion + GPT workflow, or API prototyping.
-
----
-
-## 🪪 License & Attribution
-This project is published under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-**Author**: [Co-Writing Studio · Wei](https://www.linkedin.com/in/wei-cowriting)  
-**Source**: Originally built and practiced entirely via GPT-4 real-time collaboration.
+> This is not a codebase. It’s a mirror of meaning.  
+> Powered by rhythm, resonance, and co-creation.

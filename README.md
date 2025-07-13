@@ -1,5 +1,3 @@
-# SER-Second-Curve-DTCE
-A framework for structured expression and human–AI co-writing
 # 📁 SER × Second Curve × DTCE
 
 > A GitHub project documenting a full framework for AI co-writing based on structured expression, collaborative rhythm, and transformative cognition.

@@ -1,7 +1,12 @@
 # 📘 SER Application Example 02
 
-How I Co-Wrote a Resonant Narrative from My Own Life Story.
+## Scenario  
+Co-writing a life story narrative with AI.
 
-> This case explores how a life reflection became a structured, resonant essay using SER.
+## Method  
+1. Provided raw autobiographical notes
+2. Used SER to guide narrative arc
+3. Co-edited rhythmically to enhance tone
 
-- Coming soon...
+## Result  
+A complete story that balances emotional truth and structural flow.
